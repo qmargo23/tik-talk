@@ -12,6 +12,7 @@ import { ProfileCardComponent } from '../../common-ui/profile-card/profile-card.
   styleUrl: './search-page.component.scss',
 })
 export class SearchPageComponent {
+  title = 'HELLO';
   profileService = inject(ProfileService);
   profiles: Profile[] = [];
 

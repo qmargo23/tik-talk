@@ -35,3 +35,6 @@ https://www.youtube.com/watch?v=BVIffUyYlUk
 
 - swagger:
 https://icherniakov.ru/yt-course/docs#/account/get_test_accounts_account_test_accounts_get
+
+- про git
+https://www.yandex.ru/video/preview/9915667654714239325
